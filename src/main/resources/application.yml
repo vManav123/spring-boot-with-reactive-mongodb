@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://vManav123:root@cluster0.ie4my.mongodb.net/userDB?retryWrites=true&w=majority
+
+server:
+  port: 8081

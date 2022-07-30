@@ -1,0 +1,93 @@
+{
+  "success": { },
+  "warnings": null,
+  "errors": null,
+  "echoToken": null,
+  "timeStamp": null,
+  "version": null,
+  "correlationID": null,
+  "housekeepingRooms": {
+    "room": [
+      {
+        "roomType": {
+          "pseudo": false,
+          "suite": null,
+          "roomClass": "CWDS",
+          "houseKeeping": null,
+          "smokingPreference": null,
+          "roomType": "WQ"
+        },
+        "floor": null,
+        "floorDescription": null,
+        "roomFeatures": {
+          "roomFeature": [
+            {
+              "code": "2QBED",
+              "description": null,
+              "orderSequence": null
+            },
+            {
+              "code": "ROLL",
+              "description": null,
+              "orderSequence": null
+            },
+            {
+              "code": "LOW",
+              "description": null,
+              "orderSequence": null
+            },
+            {
+              "code": "ACCR",
+              "description": null,
+              "orderSequence": null
+            }
+          ]
+        },
+        "description": null,
+        "smokingPreference": null,
+        "smokingPreferenceDescription": null,
+        "roomNumber": "3000",
+        "roomSection": null,
+        "housekeeping": {
+          "roomStatus": {
+            "reservationStatusList": null,
+            "roomStatus": "OUT_OF_ORDER",
+            "frontOfficeStatus": "VACANT",
+            "housekeepingStatus": "VACANT"
+          },
+          "roomPersons": null,
+          "guestServiceRequest": null,
+          "cleaningPriority": null,
+          "roomCondition": null,
+          "linenChange": null
+        },
+        "outOfOrder": {
+          "roomOutOfOrder": [
+            {
+              "repairRemarks": null,
+              "returnStatus": "DIRTY",
+              "reasonCode": "DRENOV",
+              "newDateRange": {
+                "start": 1656918000000,
+                "end": 1656918000000
+              },
+              "roomStatus": "OUT_OF_ORDER",
+              "start": 1656918000000,
+              "end": 1657004400000
+            }
+          ]
+        },
+        "discrepancy": null,
+        "sitePlanSection": null,
+        "componentRoomNumber": null,
+        "connectingRooms": null,
+        "componentRooms": null,
+        "attendant": [ ],
+        "hold": null,
+        "turndownInfo": null,
+        "resvInfo": [ ]
+      }
+    ],
+    "hotelCode": "CH"
+  }
+}
